@@ -23,3 +23,4 @@ Because this is good way to track and represent the change.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automerge is  very nice featrue. 
