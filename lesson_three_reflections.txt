@@ -3,3 +3,13 @@ When project is being developed by more than one preson.
 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+I may not want to have changes made by other. I may want to work on my current local repositary. If there is auto pull my code will change according to what is present at github repo currently.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: It  is type of clone from github server to github server.
+Clones: From github to local computer or local to local.
+Branches: different path is a same repo. 
+
+
+
